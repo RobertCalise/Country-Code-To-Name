@@ -3,7 +3,7 @@ Country-Code-To-Name
 
 Converts ISO 3166-1 alpha-2 country codes to the matching country names.
 
-[Online Demo](http://robertcalise.github.io/country-code-to-name/)
+[Online Demo](http://robertcalise.github.io/Country-Code-To-Name/)
 
 ### Data Source:
 ---
